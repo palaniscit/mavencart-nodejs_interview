@@ -1,0 +1,24 @@
+{
+  "name": "employee",
+  "version": "1.0.0",
+  "description": "Create an API endpoint using NodeJS which will accept the name of the person as a path parameter and give back their details in the format shown in Expected Output.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/palaniscit/mavencart-nodejs_interview.git"
+  },
+  "author": "JayaSurya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/palaniscit/mavencart-nodejs_interview/issues"
+  },
+  "homepage": "https://github.com/palaniscit/mavencart-nodejs_interview#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "express": "^4.17.3"
+  }
+}
